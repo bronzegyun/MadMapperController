@@ -6,11 +6,12 @@
 ## MadMapper
 
 ### OSC 연동 포트 설정하기
-상단 메뉴에서 `Tools` → `Preferences...` 메뉴를 클릭하세요.  
+상단 메뉴에서 `Tools` → `Preferences...` 메뉴를 클릭하세요.
 
 <kbd><img src="Images/2021-11-02 10-50-48.png" height=500 /></kbd>
 
 `OSC Input Port`를 설정하세요. (아래 그림에선 `8000`번으로 설정했습니다.)
+
 <kbd><img src="Images/2021-11-02 10-52.png" height=500 /></kbd>
 
 ### **Scenes/Cues** 창 열기
