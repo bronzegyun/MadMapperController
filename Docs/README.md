@@ -75,4 +75,16 @@
 ## 쿼리 주소 붙여넣기
 `Unity` 내 버튼 UI 콜백 함수의 파라미터로 복사한 쿼리주소를 붙여 넣습니다.
 
+<kbd><img src="Images/2021-11-02 10-40-48.png" height=500 /></kbd>
+
 ## 콘트롤 동작 확인하기
+`Unity` 내 버튼을 눌러 `MadMapper`에서 잘 동작하는지 확인합니다.
+
+### Unity 내 콘트롤 버튼
+
+<kbd><img src="Images/2021-11-02 11-01-56.png" height=500 /></kbd>
+
+### OSC 통신으로 콘트롤되는 MadMapper
+
+<kbd><img src="Images/2021-11-02 11-03-50.gif" height=500 /></kbd>
+
