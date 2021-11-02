@@ -63,7 +63,7 @@
 - Remote Host: `MadMapper`가 설치돼 있는 컴퓨터 IP.
 - Remote Port: `MadMapper`내 설정돼 있는 `OSC` 연동 포트.
 
-<kbd><img src="Images/2021-11-02 10-37-51.gif" height=500 /></kbd>
+<kbd><img src="Images/2021-11-02 10-40-38.png" height=500 /></kbd>
 
 # 원격 콘트롤
 
