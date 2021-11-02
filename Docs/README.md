@@ -12,7 +12,7 @@
 
 `OSC Input Port`를 설정하세요. (아래 그림에선 `8000`번으로 설정했습니다.)
 
-<kbd><img src="Images/2021-11-02 10-52.png" height=500 /></kbd>
+<kbd><img src="Images/2021-11-02 10-52-22.png" height=500 /></kbd>
 
 ### **Scenes/Cues** 창 열기
 장면(Scene)을 콘트롤 하기 위해서 사전에 장면 설정이 필요합니다.  
